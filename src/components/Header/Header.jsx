@@ -3,7 +3,7 @@ import user1 from '../../assets/user1.jpg'
 
 const Header = () => {
     return (
-        <div className="navbar bg-slate-400 p-5">
+        <div className="navbar bg-slate-400 p-5 w-full">
             <div className="flex-1">
                 <a className="btn btn-ghost normal-case text-xl">Knowledge Cafe</a>
             </div>

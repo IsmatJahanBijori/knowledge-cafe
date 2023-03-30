@@ -6,34 +6,34 @@
       "blog_title": "How to get your first job as a self-taught programmer",
       "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "blog_cover": "https://media.istockphoto.com/id/1386341272/photo/abstract-modern-tech-of-programming-code-screen-developer.jpg?s=2048x2048&w=is&k=20&c=OnO2cbYzoPiRim83L6WsxblR5A_pNQOVB3kiKFZ8a7Y=",
-      "read_time": "05 min read",
+      "read_time": "05",
       "publish_date": "Jan 12, 2023"
     },
     {
       "id": 2,
       "author_name": "Mr. B",
-      "blog_title": "How to get your first job as a self-taught programmer",
+      "blog_title": "Best Programming blogs on the planet",
       "image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
       "blog_cover": "https://media.istockphoto.com/id/1329626273/photo/global-communication-network-concept-digital-transformation-dx.webp?s=2048x2048&w=is&k=20&c=WgEb8fMCPPVM6oj9VYCMFVj14-lhPN6uowcMvnPdle0=",
-      "read_time": "15 min read",
+      "read_time": "15",
       "publish_date": "Dec 07, 2022"
     },
     {
       "id": 3,
       "author_name": "Mr. A",
-      "blog_title": "How to get your first job as a self-taught programmer",
+      "blog_title": "Skills needed to build a career as a programmer",
       "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "blog_cover": "https://media.istockphoto.com/id/1413990739/photo/colorful-computer-code-design-on-a-dark-surface-with-a-blue-glowing-digital-grid-overlay.jpg?s=2048x2048&w=is&k=20&c=LgIWUR9rAR4tvHWAPgNE1o6OdXumtkHeQkpJb8HKZRQ=",
-      "read_time": "07 min read",
+      "read_time": "07",
       "publish_date": "Feb 23, 2023"
     },
     {
       "id": 4,
       "author_name": "Mrs. R",
-      "blog_title": "How to get your first job as a self-taught programmer",
+      "blog_title": "The knowledge needed for the future Artificial Intelligence technology",
       "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "blog_cover": "https://media.istockphoto.com/id/1401980646/photo/3d-rendered-classic-sculpture-metaverse-avatar-with-network-of-low-poly-glowing-purple-lines.jpg?s=2048x2048&w=is&k=20&c=BuMqUMizCQNZhgjfjWg5SReoapADCDH39sWDqF9xUHg=",
-      "read_time": "12 min read",
+      "read_time": "12",
       "publish_date": "Mar 12, 2023"
     }
   ]
