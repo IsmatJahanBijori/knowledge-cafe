@@ -1,5 +1,6 @@
 import React from 'react';
 import user1 from '../../assets/user1.jpg'
+
 const Header = () => {
     return (
         <div className="navbar bg-slate-400">

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "author_name": "Mr. M",
+      "blog_title": "How to get your first job as a self-taught programmer",
+      "image": "http://placehold.it/32x32",
+      "blog_cover": "",
+      "read_time": "05 min read",
+      "publish_date": "Jan 12, 2023"
+    },
+    {
+      "id": 2,
+      "author_name": "Ms. B",
+      "blog_title": "How to get your first job as a self-taught programmer",
+      "image": "http://placehold.it/32x32",
+      "blog_cover": "",
+      "read_time": "15 min read",
+      "publish_date": "Dec 07, 2022"
+    },
+    {
+      "id": 3,
+      "author_name": "Mr. A",
+      "blog_title": "How to get your first job as a self-taught programmer",
+      "image": "http://placehold.it/32x32",
+      "blog_cover": "",
+      "read_time": "07 min read",
+      "publish_date": "Feb 23, 2023"
+    },
+    {
+      "id": 4,
+      "author_name": "Mrs. R",
+      "blog_title": "How to get your first job as a self-taught programmer",
+      "image": "http://placehold.it/32x32",
+      "blog_cover": "",
+      "read_time": "12 min read",
+      "publish_date": "Mar 12, 2023"
+    }
+  ]
