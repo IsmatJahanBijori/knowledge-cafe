@@ -1,6 +1,6 @@
-import React, {useEffect, useState} from 'react';
+import React, { useEffect, useState } from 'react';
 
-const BlogCart = ({readTime}) => {
+const BlogCart = ({ readTime }) => {
     const [readingTime, setReadingTime] = useState(readTime);
     useEffect(() => {
         const getReadTimeFromStorage = localStorage.getItem("readTime");
@@ -8,13 +8,12 @@ const BlogCart = ({readTime}) => {
     }, [readTime]);
     return (
         <div className='m-10'>
-            <div className='text-center'>
-            <p className='text-2xl font-semibold text-center'>Spent time on reading: </p>
-                <input type="text" value={readingTime} disabled />
+            <div className='text-center pb-5 bg-violet-100' style={{ color: "indigo", border: "2px solid indigo", borderRadius: "5px" }}>
+                <p className='text-3xl font-semibold my-5 p-3'>Spent time on reading: </p>
+                <input style={{border: "1px solid indigo", padding:"5px", borderRadius:"5px"}} type="text" value={readingTime} disabled />
             </div>
-            <div>
-                <h1>
-                </h1>
+            <div className="mt-5">
+                <h1 className='text-3xl font-semibold'>Bookmarked blogs:</h1>
             </div>
         </div>
     );

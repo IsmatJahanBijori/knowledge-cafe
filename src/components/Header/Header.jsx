@@ -3,9 +3,9 @@ import user1 from '../../assets/user1.jpg'
 
 const Header = () => {
     return (
-        <div className="navbar bg-slate-400 p-5 w-full">
+        <div className="navbar bg-slate-400 px-10 w-full">
             <div className="flex-1">
-                <a className="btn btn-ghost normal-case text-xl">Knowledge Cafe</a>
+                <a className="btn btn-ghost normal-case text-2xl">Knowledge Cafe</a>
             </div>
             <div className="flex-none gap-2">
                 <div className="dropdown dropdown-end">
