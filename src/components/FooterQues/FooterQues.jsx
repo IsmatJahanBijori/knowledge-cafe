@@ -5,7 +5,7 @@ const FooterQues = () => {
         <div>
             <h1 className='text-3xl font-bold text-center mt-20 mb-20'>Frequently Asked Questions</h1>
            
-            <div className='mx-96 mb-10 p-3' style={{backgroundColor: "#E4D0D0", borderRadius:"10px"}}>
+            <div className='w-full mb-10 p-3' style={{backgroundColor: "#E4D0D0", borderRadius:"10px"}}>
             <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box mb-3">
                 <div className="collapse-title text-xl font-medium">
                   <h3>1. Difference between props and state?</h3>

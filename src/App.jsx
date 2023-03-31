@@ -26,20 +26,20 @@ const App = () => {
   return (
     <div>
       <Header></Header>
-      <div className='flex justify-around'>
-        <div>
+      <div className='flex flex-col md:flex md:flex-row md:justify-around '>
+        <div className='mx-10'>
           <Blogs handleReadTime={handleReadTime}></Blogs>
         </div>
          <div>
           <BlogCart readTime={readTime}></BlogCart>
         </div>
+
       </div>
+      <div>
       <FooterQues></FooterQues>
+      </div>
     </div>
   );
 };
-// jodi notun system bhul hoy taile eikhan theke blogcart niye ei return e boshay dibo
-// <div>
-// <BlogCart readTime={readTime}></BlogCart>
-// </div>
+
 export default App;
