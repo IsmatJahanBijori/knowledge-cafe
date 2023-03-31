@@ -2,16 +2,18 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 const Blog = (props) => {
-    const {author_name, blog_title, image, blog_cover, read_time, publish_date } = props.blog;
+    const {count, author_name, blog_title, image, blog_cover, read_time, publish_date } = props.blog;
     const handleReadTime=props.handleReadTime
+    // newadded
+    // const handleAddToBookMark=props.handleAddToBookMark
+
     // style={{ width: "745px", height: "720px" }}
     return (
-        <div className="card card-compact mt-10 w-96 md:h-auto bg-base-100 shadow-xl mx-2 md:mx-20">
+        <div className="card card-compact mt-10 w-96 mb-10 md:h-auto bg-base-100 shadow-xl mx-2 md:mx-20">
             <figure>
                 <img className='w-full' src={blog_cover} alt="Blog Image" />
             </figure>
             <div className="card-body">
-
                 <div className='flex justify-between'>
                     <div className='flex gap-2'>
                         <div>
@@ -40,5 +42,5 @@ const Blog = (props) => {
         </div>
     );
 };
-
+//  onClick={()=>handleAddToBookMark(props.blog)}
 export default Blog;
