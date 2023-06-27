@@ -58,7 +58,7 @@ const Blogs = () => {
 
     return (
         <div className='flex flex-col md:flex md:flex-row md:justify-around '>
-            <div className='mx-20'>
+            <div className='mx-20 grid grid-cols-1 md:grid-cols-2'>
                 {
                     blogs.map(blog => <Blog blog={blog} key={blog.id} handleReadTime={handleReadTime} handleBookMark={handleBookMark}></Blog>)
                 }
